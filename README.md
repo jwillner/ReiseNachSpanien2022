@@ -30,6 +30,14 @@ ab 08:38 Lyon Part Dieu TER 96504 Richtung Genève Genève an10:35 Gleis 8
 ab 11:15 Genève, Gleis 4 ZugInterCity 10921 Richtung Rorschach an14:27 Winterthur, Gleis 5
 
 
+
+Ebike mieten malaga
+
+https://www.bike2malaga.com/en/bike-rental-malaga/ebike-rental-malaga/malaga-bike-rental-electric-bike
+
+
+
+
 Zugfahrt von Malaga nach Barcelona
 
 
@@ -53,4 +61,7 @@ Kosten 238 Euro bei gnv.it
 
 ### Radtour von Barcelona bis Malaga
 https://www.komoot.de/invite-tour/661941377?code=8l0f80-jgSPNV2zSWcFFGv9tBWX1muWse3FSxeapWeD6MN5kFA
+
+
+
 
