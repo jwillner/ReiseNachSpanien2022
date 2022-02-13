@@ -30,6 +30,13 @@ ab 08:38 Lyon Part Dieu TER 96504 Richtung Genève Genève an10:35 Gleis 8
 ab 11:15 Genève, Gleis 4 ZugInterCity 10921 Richtung Rorschach an14:27 Winterthur, Gleis 5
 
 
+Zugfahrt von Malaga nach Barcelona
+
+
+https://www.trenes.com/de/reservaF.php?sessiondb=36209731c7eaec
+
+
+
 ### Leihwagen mieten Volkswagen Caddy Vermieter Enterprise 
 https://www.rentalcars.com/package/deal/eyJkcml2ZXJzQWdlIjozMCwiZHJvcE9mZkRhdGVUaW1lIjoiMjAyMi0wNC0xNVQxMDowMDowMCIsImRyb3BPZmZMb2NhdGlvbiI6IjMxMTA2IiwiZHJvcE9mZkxvY2F0aW9uVHlwZSI6IlNUQVRJT04iLCJwaWNrVXBEYXRlVGltZSI6IjIwMjItMDQtMTRUMTA6MDA6MDAiLCJwaWNrVXBMb2NhdGlvbiI6IjMxOTExIiwicGlja1VwTG9jYXRpb25UeXBlIjoiU1RBVElPTiIsInJlbnRhbER1cmF0aW9uSW5EYXlzIjoxLCJzZWFyY2hNZXRhZGF0YSI6IntcInBpY2tVcExvY2F0aW9uTmFtZVwiOlwiTWFsYWdhIEJhaG5ob2ZcIixcImRyb3BPZmZMb2NhdGlvbk5hbWVcIjpcIkJhcmNlbG9uYSAtIEJhaG5ob2ZcIn0ifQ==/713925226
 
